@@ -7,7 +7,7 @@ tags: [linux, kernel, kernel-linux, patch, iio, first]
 
 ### The Task
 
-To experience the process of sending a patch to the Linux Kernel, it was provided a list of suggestions of small tasks that we could work on. Me and my partner, [Francisco]() decided to deduplicate a code with around 90% of similarity in their functions. At the file `drivers/iio/accel/kxcjk-1013.c`:
+To experience the process of sending a patch to the Linux Kernel, it was provided a list of suggestions of small tasks that we could work on. Me and my partner, [Francisco](https://xivor.github.io/) decided to deduplicate a code with around 90% of similarity in their functions. At the file `drivers/iio/accel/kxcjk-1013.c`:
 ```c
 static int kxcjk1013_setup_any_motion_interrupt(struct kxcjk1013_data *data,
 						bool status)
