@@ -1,5 +1,5 @@
 ---
-title: Sending My First Patch to the Linux Kernel [1]
+title: Sending My First Patch to the Linux Kernel
 date: 2025-04-22 18:00:00 +/-0300
 categories: [Open Source Software Development, Linux Kernel, MAC0470]
 tags: [linux, kernel, kernel-linux, patch, iio, first]
@@ -102,3 +102,8 @@ it's a new data interrupt.
 ...
 ```
 The main problem was sending the contribution to the course email because Francisco's email was not accepting his password, so I sent it. Our next step is to look at the feedback and send a new version of the patch.
+
+### Updates
+
+The feedback was received, and the changes were small at the way we were writing the commit message.
+I sent the [patch](https://lore.kernel.org/linux-iio/20250426153307.59689da0@jic23-huawei/T/#t) to the maintainer and the first version was sucessfully accepted.
