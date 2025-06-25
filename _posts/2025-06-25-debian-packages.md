@@ -1,6 +1,6 @@
 ---
 title: Debian Packaging Workshop
-date: 2025-06-25 12:00:00 +/-0300
+date: 2025-06-25 11:00:00 +/-0300
 categories: [Open Source Software Development, Debian, MAC0470]
 tags: [debian, linux, package, setup, qemu, first]
 ---
