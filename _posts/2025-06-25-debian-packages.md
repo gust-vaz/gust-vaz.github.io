@@ -57,6 +57,7 @@ After that, I proceeded to push my changes and create a merge request. The proce
 
 ### The Results
 
+![](../assets/img/thanks-debian.png)
+
 To my surprise, as the workshop was wrapping up, Charles chose my merge request to demonstrate the maintainer's side of the contribution approval process. Fortunately, I had done everything correctly, and I became the first student in the workshop to have a contribution accepted into the Debian project—which was very exciting! In less than an hour, I received a thank you message signed by the maintainer.
 
-![](../assets/img/thanks-debian.png)
